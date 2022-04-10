@@ -294,22 +294,30 @@ void task2(void)
 因此运行一段时间后task0，task1，task2各种的**task_debug_num之比约为20：2：1**
 
 仿真结果如下：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/57cec6deda9a4b2e8f8a38af4c9bbd07.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAbGl5aW51bzIwMTc=,size_15,color_FFFFFF,t_70,g_se,x_16)
 **task_debug_num之比约为20：2：1 ，实现延时功能的设计目标。**
 
 **总结：本文讲解了延时的不同模式和策略，描述了enuo延时功能的设计过程**
 
 
-<font color=red>**希望获取源码的朋友们在评论区里留言。**
+**希望获取源码的朋友们在评论区里留言。**
 
-**未完待续…
-实时操作系统系列将持续更新
-创作不易希望朋友们点赞，转发，评论，关注。
-您的点赞，转发，评论，关注将是我持续更新的动力
-作者：李巍
-Github：liyinuoman2017
-CSDN：liyinuo2017
-今日头条：程序猿李巍**
+**未完待续…**
+	
+**实时操作系统系列将持续更新**
+	
+**创作不易希望朋友们点赞，转发，评论，关注。**
+	
+**您的点赞，转发，评论，关注将是我持续更新的动力**
+	
+**作者：李巍**
+	
+**Github：liyinuoman2017**
+	
+**CSDN：liyinuo2017**
+	
+**今日头条：程序猿李巍**
 
   
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/7df2c5f7d3e04918b3361cb0147b8ab9.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAbGl5aW51bzIwMTc=,size_20,color_FFFFFF,t_70,g_se,x_16)
