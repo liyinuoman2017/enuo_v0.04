@@ -1,7 +1,9 @@
 # enuo_v0.04
 从零开始构建嵌入式实时操作系统5——设计延时功能
 
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/1926919d64af40b387b5adb6ef93a8c7.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAbGl5aW51bzIwMTc=,size_20,color_FFFFFF,t_70,g_se,x_16)
+
 
 
 ## 1.前言
