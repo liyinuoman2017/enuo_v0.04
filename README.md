@@ -296,6 +296,8 @@ void task2(void)
 仿真结果如下：
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/57cec6deda9a4b2e8f8a38af4c9bbd07.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAbGl5aW51bzIwMTc=,size_15,color_FFFFFF,t_70,g_se,x_16)
+
+
 **task_debug_num之比约为20：2：1 ，实现延时功能的设计目标。**
 
 **总结：本文讲解了延时的不同模式和策略，描述了enuo延时功能的设计过程**
